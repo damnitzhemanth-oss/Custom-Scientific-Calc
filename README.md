@@ -192,14 +192,44 @@ AI was used for help of Firmware and debugging problems with OnShape.
 
 **View more images in *images* folder**
 
-![PCB](Images\PCB\Base\PCB\3D_Hero.png)
-![PCB](Images\PCB\Top\PCB\3DH.png)
+## Gallery
 
-![Schematic](Images\PCB\Base\Schematic\MCU_Core.png)
-![Schematic](Images\PCB\Top\Schematic\Switch_Matrix.png)
+### PCB — Base
+![Base PCB Front](Images/PCB/Base/PCB/3D.png)
+![Base PCB Back](Images/PCB/Base/PCB/3D_B.png)
+![Base PCB Hero](Images/PCB/Base/PCB/3D_Hero.png)
+![Base PCB F.Cu](Images/PCB/Base/PCB/F.cu.png)
+![Base PCB B.Cu](Images/PCB/Base/PCB/B.cu.png)
 
-![Case](Images\CAD\Base_PlateH.png)
-![Case](Images\CAD\Hero_View_Final.png)
+### PCB — Top
+![Top PCB Front](Images/PCB/Top/PCB/3DF.png)
+![Top PCB Back](Images/PCB/Top/PCB/3DB.png)
+![Top PCB Hero](Images/PCB/Top/PCB/3DH.png)
+![Top PCB F.Cu](Images/PCB/Top/PCB/PCBF.cu.png)
+![Top PCB B.Cu](Images/PCB/Top/PCB/PCBB.cu.png)
+
+### Schematic — Base
+![MCU Core](Images/PCB/Base/Schematic/MCU_Core.png)
+![Boosters](Images/PCB/Base/Schematic/Boosters.png)
+![Battery](Images/PCB/Base/Schematic/Battery.png)
+![Crystal](Images/PCB/Base/Schematic/Crystal.png)
+![Connectors](Images/PCB/Base/Schematic/Connectors.png)
+![LEDs](Images/PCB/Base/Schematic/LEDs.png)
+![Programming](Images/PCB/Base/Schematic/Programming.png)
+![Reset Button](Images/PCB/Base/Schematic/Reset_BTN.png)
+
+### Schematic — Top
+![Switch Matrix](Images/PCB/Top/Schematic/Switch_Matrix.png)
+![LCD](Images/PCB/Top/Schematic/LCD.png)
+![Power](Images/PCB/Top/Schematic/Power.png)
+![Connectors Top](Images/PCB/Top/Schematic/Connectors.png)
+
+### CAD
+![Base Plate](Images/CAD/Base_PlateH.png)
+![Base Plate Back](Images/CAD/Base_P_B.png)
+![Top Plate](Images/CAD/Top_Plate.png)
+![Top Plate Hero](Images/CAD/Top_Plate_H.png)
+![Hero View](Images/CAD/Hero_View_Final.png)
 
 # License
 
