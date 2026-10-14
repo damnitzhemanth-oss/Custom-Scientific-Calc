@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48","48","1N4148W","","","","","${EXCLUDE_FROM_POS_FILES}","Diode_SMD:D_SOD-110",""
+"J1,J2","2","Conn_01x13_Socket","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.00mm:PinSocket_1x13_P2.00mm_Vertical",""
+"J3","1","Sharp LS027B7DH01A","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal",""
+"SW1","1","PS-5824SVA-6PLW","","","","","${EXCLUDE_FROM_POS_FILES}","Custom_Footprints:SW-SMD_6P-L5.8-W5.8-P2.00-LS11.3","https://www.lcsc.com/datasheet/C47018553.pdf"
+"U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20,U21,U22,U23,U24,U25,U26,U27,U28,U29,U30,U31,U32,U33,U34,U35,U36,U37,U38,U39,U40,U41,U42,U43,U44,U45,U46,U47,U48","48","EVQ-P0P02B","","","","","${EXCLUDE_FROM_POS_FILES}","Custom_Footprints:SW-SMD_EVQ-P0P02B_3d","https://www.lcsc.com/datasheet/C6554563.pdf"
