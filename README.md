@@ -15,6 +15,9 @@ Scientific calculators are just normal calculator and all other weird math symbo
 
 These are usually costly and bulky. So I reverse engineered and built one !.
 
+![Hero View](Images/CAD/Hero_View_Final.png)
+
+
 # Architecture of the REPO
 
 ```
